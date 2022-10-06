@@ -22,3 +22,14 @@
 | 18 | [4Sum](https://leetcode.com/problems/4sum/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%202/18.4-sum.py) |
 | 19 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%202/19.remove-nth-node-from-end-of-list.py) |
 | 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%202/20.valid-parentheses.py) |
+| 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%203/21.merge-two-sorted-lists.py) |
+| 22 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%203/22.generate-parentheses.py) |
+| 23 | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%203/23.merge-k-sorted-lists.py) |
+| 24 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%203/24.swap-nodes-in-pairs.py) |
+| 25 | [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%203/25.reverse-nodes-in-k-group.py) |
+| 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%203/26.remove-duplicates-from-sorted-array.py) |
+| 27 | [Remove Element](https://leetcode.com/problems/remove-element/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%203/27.remove-element.py) |
+| 28 | [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%203/28.find-the-index-of-the-first-occurrence-in-a-string.py) |
+| 29 | [Divide Two Integers](https://leetcode.com/problems/divide-two-integers/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%203/29.divide-two-integers.py) |
+| 30 | [Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%203/30.substring-with-concatenation-of-all-words.py) |
+<!-- |  | []() | [Python]() | -->
