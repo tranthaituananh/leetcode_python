@@ -1,7 +1,7 @@
 # Python3 Solutions for Leetcode
 
 | # | Title | Solution |
-|---| ----- | -------- |
+|:---:| :----- | :--------: |
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%201/1.two-sum.py) |
 | 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%201/2.add-two-numbers.py) |
 | 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%201/3.longest-substring-without-repeating-characters.py) |  
