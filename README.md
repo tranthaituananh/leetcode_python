@@ -37,4 +37,9 @@
 | 33 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%204/33.search-in-rotated-sorted-array.py) |
 | 34 | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%204/34.find-first-and-last-position-of-element-in-sorted-array.py) |
 | 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%204/35.search-insert-position.py) |
+| 36 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%204/36.valid-sudoku.py) |
+| 37 | [Sodoku Solver](https://leetcode.com/problems/sudoku-solver/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%204/37.sudoku-solver.py) |
+| 38 | [Count and Say](https://leetcode.com/problems/count-and-say/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%204/38.count-and-say.py) |
+| 39 | [Combination Sum](https://leetcode.com/problems/combination-sum/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%204/39.combination-sum.py) |
+| 40 | [Combination Sum II](https://leetcode.com/problems/combination-sum-ii/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%204/40.combination-sum-ii.py) |
 <!-- |  | []() | [Python]() | -->
