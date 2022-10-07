@@ -1,4 +1,4 @@
-# Python3 Solutions for Leetcode
+# Python Solutions for Leetcode
 
 | # | Title | Solution |
 |:---:| :----- | :--------: |
