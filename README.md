@@ -32,4 +32,9 @@
 | 28 | [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%203/28.find-the-index-of-the-first-occurrence-in-a-string.py) |
 | 29 | [Divide Two Integers](https://leetcode.com/problems/divide-two-integers/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%203/29.divide-two-integers.py) |
 | 30 | [Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%203/30.substring-with-concatenation-of-all-words.py) |
+| 31 | [Next Permutation](https://leetcode.com/problems/next-permutation/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%204/31.next-permutation.py) |
+| 32 | [Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%204/32.longest-valid-parentheses.py) |
+| 33 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%204/33.search-in-rotated-sorted-array.py) |
+| 34 | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%204/34.find-first-and-last-position-of-element-in-sorted-array.py) |
+| 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%204/35.search-insert-position.py) |
 <!-- |  | []() | [Python]() | -->
