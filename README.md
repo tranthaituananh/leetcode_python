@@ -42,4 +42,14 @@
 | 38 | [Count and Say](https://leetcode.com/problems/count-and-say/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%204/38.count-and-say.py) |
 | 39 | [Combination Sum](https://leetcode.com/problems/combination-sum/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%204/39.combination-sum.py) |
 | 40 | [Combination Sum II](https://leetcode.com/problems/combination-sum-ii/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%204/40.combination-sum-ii.py) |
+| 41 | [First Missing Positive](https://leetcode.com/problems/first-missing-positive/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%205/41.first-missing-positive.py) |
+| 42 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%205/42.trapping-rain-water.py) |
+| 43 | [Multiply Strings](https://leetcode.com/problems/multiply-strings/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%205/43.multiply-strings.py) |
+| 44 | [Wildcard Matching](https://leetcode.com/problems/wildcard-matching/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%205/44.wildcard-matching.py) |
+| 45 | [Jump Game II](https://leetcode.com/problems/jump-game-ii/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%205/45.jump-game-ii.py) |
+| 46 | [Permutations](https://leetcode.com/problems/permutations/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%205/46.permutations.py) |
+| 47 | [Permutations II](https://leetcode.com/problems/permutations-ii/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%205/47.permutations-ii.py) |
+| 48 | [Rotate Image](https://leetcode.com/problems/rotate-image/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%205/48.rotate-image.py) |
+| 49 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%205/49.group-anagrams.py) |
+| 50 | [Pow(x, n)](https://leetcode.com/problems/powx-n/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%205/50.pow-x-n.py) |
 <!-- |  | []() | [Python]() | -->
