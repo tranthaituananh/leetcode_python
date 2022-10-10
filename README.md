@@ -52,4 +52,14 @@
 | 48 | [Rotate Image](https://leetcode.com/problems/rotate-image/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%205/48.rotate-image.py) |
 | 49 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%205/49.group-anagrams.py) |
 | 50 | [Pow(x, n)](https://leetcode.com/problems/powx-n/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%205/50.pow-x-n.py) |
+| 51 | [N-Queens](https://leetcode.com/problems/n-queens/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%206/51.n-queens.py) |
+| 52 | [N-Queens II](https://leetcode.com/problems/n-queens-ii/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%206/52.n-queens-ii.py) |
+| 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%206/53.maximum-subarray.py) |
+| 54 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%206/54.spiral-matrix.py) |
+| 55 | [Jump Game](https://leetcode.com/problems/jump-game/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%206/55.jump-game.py) |
+| 56 | [Merge Intervals](https://leetcode.com/problems/merge-intervals/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%206/56.merge-intervals.py) |
+| 57 | [Insert Intervals](https://leetcode.com/problems/insert-interval/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%206/57.insert-interval.py) |
+| 58 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%206/58.length-of-last-word.py) |
+| 59 | [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%206/59.spiral-matrix-ii.py) |
+| 60 | [Permutation Sequence](https://leetcode.com/problems/permutation-sequence/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%206/60.permutation-sequence.py) |
 <!-- |  | []() | [Python]() | -->
