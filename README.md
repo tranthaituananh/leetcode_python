@@ -62,4 +62,14 @@
 | 58 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%206/58.length-of-last-word.py) |
 | 59 | [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%206/59.spiral-matrix-ii.py) |
 | 60 | [Permutation Sequence](https://leetcode.com/problems/permutation-sequence/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%206/60.permutation-sequence.py) |
+| 61 | [Rotate List](https://leetcode.com/problems/rotate-list/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%207/61.rotate-list.py) |
+| 62 | [Unique Paths](https://leetcode.com/problems/unique-paths/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%207/62.unique-paths.py) |
+| 63 | [Unique Paths II](https://leetcode.com/problems/unique-paths-ii/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%207/63.unique-paths-ii.py) |
+| 64 | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%207/64.minimum-path-sum.py) |
+| 65 | [Valid Number](https://leetcode.com/problems/valid-number/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%207/65.valid-number.py) |
+| 66 | [Plus One](https://leetcode.com/problems/plus-one/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%207/66.plus-one.py) |
+| 67 | [Add Binary](https://leetcode.com/problems/add-binary/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%207/67.add-binary.py) |
+| 68 | [Text Justification](https://leetcode.com/problems/text-justification/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%207/68.text-justification.py) |
+| 69 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%207/69.sqrt-x.py) |
+| 70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%207/70.climbing-stairs.py) |
 <!-- |  | []() | [Python]() | -->
