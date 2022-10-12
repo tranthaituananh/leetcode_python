@@ -72,4 +72,14 @@
 | 68 | [Text Justification](https://leetcode.com/problems/text-justification/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%207/68.text-justification.py) |
 | 69 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%207/69.sqrt-x.py) |
 | 70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%207/70.climbing-stairs.py) |
+| 71 | [Simplify Path](https://leetcode.com/problems/simplify-path/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%208/71.simplify-path.py) |
+| 72 | [Edit Distance](https://leetcode.com/problems/edit-distance) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%208/72.edit-distance.py) |
+| 73 | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%208/73.set-matrix-zeroes.py) |
+| 74 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%208/74.search-a-2-d-matrix.py) |
+| 75 | [Sort Colors](https://leetcode.com/problems/sort-colors) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%208/75.sort-colors.py) |
+| 76 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%208/76.minimum-window-substring.py) |
+| 77 | [Combinations](https://leetcode.com/problems/combinations) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%208/77.combinations.py) |
+| 78 | [Subsets](https://leetcode.com/problems/subsets) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%208/78.subsets.py) |
+| 79 | [Word Search](https://leetcode.com/problems/word-search) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%208/79.word-search.py) |
+| 80 | [Remove Duplicates From Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%208/80.remove-duplicates-from-sorted-array-ii.py) |
 <!-- |  | []() | [Python]() | -->
