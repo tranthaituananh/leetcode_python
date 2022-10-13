@@ -82,4 +82,24 @@
 | 78 | [Subsets](https://leetcode.com/problems/subsets) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%208/78.subsets.py) |
 | 79 | [Word Search](https://leetcode.com/problems/word-search) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%208/79.word-search.py) |
 | 80 | [Remove Duplicates From Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%208/80.remove-duplicates-from-sorted-array-ii.py) |
-<!-- |  | []() | [Python]() | -->
+| 81 | [Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%209/81.search-in-rotated-sorted-array-ii.py) |
+| 82 | [Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%209/82.remove-duplicates-from-sorted-list-ii.py) |
+| 83 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%209/83.remove-duplicates-from-sorted-list.py) |
+| 84 | [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%209/84.largest-rectangle-in-histogram.py) |
+| 85 | [Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%209/85.maximal-rectangle.py) |
+| 86 | [Partition List](https://leetcode.com/problems/partition-list/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%209/86.partition-list.py) |
+| 87 | [Scramble String](https://leetcode.com/problems/scramble-string/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%209/87.scramble-string.py) |
+| 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%209/88.merge-sorted-array.py) |
+| 89 | [Gray Code](https://leetcode.com/problems/gray-code/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%209/89.gray-code.py) |
+| 90 | [Subsets II](https://leetcode.com/problems/subsets-ii/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%209/90.subsets-ii.py) |
+| 91 | [Decode Ways](https://leetcode.com/problems/decode-ways/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2010/91.decode-ways.py) |
+| 92 | [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2010/92.reverse-linked-list-ii.py) |
+| 93 | [Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2010/93.restore-ip-addresses.py) |
+| 94 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2010/94.binary-tree-inorder-traversal.py) |
+| 95 | [Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2010/95.unique-binary-search-trees-ii.py) |
+| 96 | [Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2010/96.unique-binary-search-trees.py) |
+| 97 | [Interleaving String](https://leetcode.com/problems/interleaving-string/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2010/97.interleaving-string.py) |
+| 98 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2010/98.validate-binary-search-tree.py) |
+| 99 | [Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2010/99.recover-binary-search-tree.py) |
+| 100 | [ Same Tree](https://leetcode.com/problems/same-tree/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2010/100.same-tree.py) |
+<!-- |  |  |  | -->
