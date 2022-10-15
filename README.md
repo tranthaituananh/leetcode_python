@@ -112,4 +112,14 @@
 | 108 | [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2011/108.convert-sorted-array-to-binary-search-tree.py) |
 | 109 | [Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2011/109.convert-sorted-list-to-binary-search-tree.py) |
 | 110 | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2011/110.balanced-binary-tree.py) |
+| 111 | [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2012/111.minimum-depth-of-binary-tree.py) |
+| 112 | [Path Sum](https://leetcode.com/problems/path-sum/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2012/112.path-sum.py) |
+| 113 | [Path Sum II](https://leetcode.com/problems/path-sum-ii/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2012/113.path-sum-ii.py) |
+| 114 | [Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2012/114.flatten-binary-tree-to-linked-list.py) |
+| 115 | [Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2012/115.distinct-subsequences.py) |
+| 116 | [Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2012/116.populating-next-right-pointers-in-each-node.py) |
+| 117 | [Populating Next Right Pointers in Each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2012/117.populating-next-right-pointers-in-each-node-ii.py) |
+| 118 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2012/118.pascals-triangle.py) |
+| 119 | [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2012/119.pascals-triangle-ii.py) |
+| 120 | [Triangle](https://leetcode.com/problems/triangle/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2012/120.triangle.py) |
 <!-- |  |  |  | -->
