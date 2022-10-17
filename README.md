@@ -132,4 +132,14 @@
 | 128 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2013/128.longest-consecutive-sequence.py) |
 | 129 | [Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/)| [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2013/129.sum-root-to-leaf-numbers.py) |
 | 130 | [Surrounded Regions](https://leetcode.com/problems/surrounded-regions/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2013/130.surrounded-regions.py) |
+| 131 | [Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2014/131.palindrome-partitioning.py) |
+| 132 | [Palindrome Partitioning II](https://leetcode.com/problems/palindrome-partitioning-ii/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2014/132.palindrome-partitioning-ii.py) |
+| 133 | [Clone Graph](https://leetcode.com/problems/clone-graph/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2014/133.clone-graph.py) |
+| 134 | [Gas Station](https://leetcode.com/problems/gas-station/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2014/134.gas-station.py) |
+| 135 | [Candy](https://leetcode.com/problems/candy/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2014/135.candy.py) |
+| 136 | [Single Number](https://leetcode.com/problems/single-number/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2014/136.single-number.py) |
+| 137 | [Single Number II](https://leetcode.com/problems/single-number-ii/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2014/137.single-number-ii.py) |
+| 138 | [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2014/138.copy-list-with-random-pointer.py) |
+| 139 | [Word Break](https://leetcode.com/problems/word-break/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2014/139.word-break.py) |
+| 140 | [Word Break II](https://leetcode.com/problems/word-break-ii/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2014/140.word-break-ii.py) |
 <!-- |  |  |  | -->
