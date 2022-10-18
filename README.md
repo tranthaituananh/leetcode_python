@@ -142,4 +142,14 @@
 | 138 | [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2014/138.copy-list-with-random-pointer.py) |
 | 139 | [Word Break](https://leetcode.com/problems/word-break/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2014/139.word-break.py) |
 | 140 | [Word Break II](https://leetcode.com/problems/word-break-ii/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2014/140.word-break-ii.py) |
+| 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2015/141.linked-list-cycle.py) |
+| 142 | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2015/142.linked-list-cycle-ii.py) |
+| 143 | [Reorder List](https://leetcode.com/problems/reorder-list/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2015/143.reorder-list.py) |
+| 144 | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2015/144.binary-tree-preorder-traversal.py) |
+| 145 | [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2015/145.binary-tree-postorder-traversal.py) |
+| 146 | [LRU Cache](https://leetcode.com/problems/lru-cache/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2015/146.lru-cache.py) |
+| 147 | [Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2015/147.insertion-sort-list.py) |
+| 148 | [Sort List](https://leetcode.com/problems/sort-list/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2015/148.sort-list.py) |
+| 149 | [Max Points on a Line](https://leetcode.com/problems/max-points-on-a-line/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2015/149.max-points-on-a-line.py) |
+| 150 | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2015/150.evaluate-reverse-polish-notation.py) |
 <!-- |  |  |  | -->
