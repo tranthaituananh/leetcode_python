@@ -152,4 +152,19 @@
 | 148 | [Sort List](https://leetcode.com/problems/sort-list/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2015/148.sort-list.py) |
 | 149 | [Max Points on a Line](https://leetcode.com/problems/max-points-on-a-line/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2015/149.max-points-on-a-line.py) |
 | 150 | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2015/150.evaluate-reverse-polish-notation.py) |
-<!-- |  |  |  | -->
+| 151 | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2016/151.reverse-words-in-a-string.py) |
+| 152 | [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2016/152.maximum-product-subarray.py) |
+| 153 | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2016/153.find-minimum-in-rotated-sorted-array.py) |
+| 154 | [Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2016/154.find-minimum-in-rotated-sorted-array-ii.py) |
+| 155 | [Min Stack](https://leetcode.com/problems/min-stack/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2016/155.min-stack.py) |
+| 156 | [Binary Tree Upside Down](https://leetcode.com/problems/binary-tree-upside-down/) | Premium |
+| 157 | [Read N Characters Given Read4](https://leetcode.com/problems/read-n-characters-given-read4/) | Premium |
+| 158 | [Read N Characters Given Read4 II - Call multiple times](https://leetcode.com/problems/read-n-characters-given-read4-ii-call-multiple-times/) | Premium |
+| 159 | [Longest Substring with At Most Two Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters/) | Premium |
+| 160 | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2016/160.intersection-of-two-linked-lists.py) |
+| 161 | [One Edit Distance](https://leetcode.com/problems/one-edit-distance/) | Premium |
+| 162 | [Find Peak Element](https://leetcode.com/problems/find-peak-element/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2016/162.find-peak-element.py) |
+| 163 | [Missing Ranges](https://leetcode.com/problems/missing-ranges/) | Premium |
+| 164 | [Maximum Gap](https://leetcode.com/problems/maximum-gap/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2016/164.maximum-gap.py) |
+| 165 | [Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2016/165.compare-version-numbers.py) |
+| 166 | [Fraction to Recurring Decimal](https://leetcode.com/problems/fraction-to-recurring-decimal/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2016/166.fraction-to-recurring-decimal.py) |
