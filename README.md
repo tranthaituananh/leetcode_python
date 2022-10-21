@@ -168,3 +168,25 @@
 | 164 | [Maximum Gap](https://leetcode.com/problems/maximum-gap/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2016/164.maximum-gap.py) |
 | 165 | [Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2016/165.compare-version-numbers.py) |
 | 166 | [Fraction to Recurring Decimal](https://leetcode.com/problems/fraction-to-recurring-decimal/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2016/166.fraction-to-recurring-decimal.py) |
+| 167 | [Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2017/167.two-sum-ii-input-array-is-sorted.py) |
+| 168 | [Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2017/168.excel-sheet-column-title.py) |
+| 169 | [Majority Element](https://leetcode.com/problems/majority-element/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2017/169.majority-element.py) |
+| 170 | [Two Sum III - Data structure design](https://leetcode.com/problems/two-sum-iii-data-structure-design/) | Database |
+| 171 | [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2017/171.excel-sheet-column-number.py) |
+| 172 | [Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2017/172.factorial-trailing-zeroes.py) |
+| 173 | [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2017/173.binary-search-tree-iterator.py) |
+| 174 | [Dungeon Game](https://leetcode.com/problems/dungeon-game/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2017/174.dungeon-game.py) |
+| 175 | [Combine Two Tables](https://leetcode.com/problems/combine-two-tables/) | Database |
+| 176 | [Second Highest Salary](https://leetcode.com/problems/second-highest-salary/) | Database |
+| 177 | [Nth Highest Salary](https://leetcode.com/problems/nth-highest-salary/) | Database |
+| 178 | [Rank Scores](https://leetcode.com/problems/rank-scores/) | Database |
+| 179 | [Largest Number](https://leetcode.com/problems/largest-number/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2017/179.largest-number.py) |
+| 180 | [Consecutive Numbers](https://leetcode.com/problems/consecutive-numbers/) | Database |
+| 181 | [Employees Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers/) | Database |
+| 182 | [Duplicate Emails](https://leetcode.com/problems/duplicate-emails/) | Database |
+| 183 | [Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order/) | Database |
+| 184 | [Department Highest Salary](https://leetcode.com/problems/department-highest-salary/) | Database |
+| 185 | [Department Top Three Salaries](https://leetcode.com/problems/department-top-three-salaries/) | Database |
+| 186 | [Reverse Words in a String II](https://leetcode.com/problems/reverse-words-in-a-string-ii/) | Premium |
+| 187 | [Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2017/187.repeated-dna-sequences.py) |
+| 188 | [Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2017/188.best-time-to-buy-and-sell-stock-iv.py) |
