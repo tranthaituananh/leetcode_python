@@ -190,3 +190,19 @@
 | 186 | [Reverse Words in a String II](https://leetcode.com/problems/reverse-words-in-a-string-ii/) | Premium |
 | 187 | [Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2017/187.repeated-dna-sequences.py) |
 | 188 | [Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2017/188.best-time-to-buy-and-sell-stock-iv.py) |
+| 189 | [Rotate Array](https://leetcode.com/problems/rotate-array/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2018/189.rotate-array.py) |
+| 190 | [Reverse Bits](https://leetcode.com/problems/reverse-bits/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2018/190.reverse-bits.py) |
+| 191 | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2018/191.number-of-1-bits.py) |
+| 192 | [Word Frequency](https://leetcode.com/problems/word-frequency/) | Shell |
+| 193 | [Valid Phone Numbers](https://leetcode.com/problems/valid-phone-numbers/) | Shell |
+| 194 | [Transpose File](https://leetcode.com/problems/transpose-file/) | Shell |
+| 195 | [Tenth Line](https://leetcode.com/problems/tenth-line/) | Shell |
+| 196 | [Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails/) | Database |
+| 197 | [Rising Temperature](https://leetcode.com/problems/rising-temperature/) | Database |
+| 198 | [House Robber](https://leetcode.com/problems/house-robber/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2018/198.house-robber.py) |
+| 199 | [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2018/199.binary-tree-right-side-view.py) |
+| 200 | [Number of Islands](https://leetcode.com/problems/number-of-islands/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2018/200.number-of-islands.py) |
+| 201 | [Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2018/201.bitwise-and-of-numbers-range.py) |
+| 202 | [Happy Number](https://leetcode.com/problems/happy-number/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2018/202.happy-number.py) |
+| 203 | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2018/203.remove-linked-list-elements.py) |
+| 204 | [Count Primes](https://leetcode.com/problems/count-primes/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2018/204.count-primes.py) |
