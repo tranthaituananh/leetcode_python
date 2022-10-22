@@ -206,3 +206,13 @@
 | 202 | [Happy Number](https://leetcode.com/problems/happy-number/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2018/202.happy-number.py) |
 | 203 | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2018/203.remove-linked-list-elements.py) |
 | 204 | [Count Primes](https://leetcode.com/problems/count-primes/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2018/204.count-primes.py) |
+| 205 | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2019/205.isomorphic-strings.py) |
+| 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2019/206.reverse-linked-list.py) |
+| 207 | [Course Schedule](https://leetcode.com/problems/course-schedule/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2019/207.course-schedule.py) |
+| 208 | [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2019/208.implement-trie-prefix-tree.py) |
+| 209 | [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2019/209.minimum-size-subarray-sum.py) |
+| 210 | [Course Schedule II](https://leetcode.com/problems/course-schedule-ii/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2019/210.course-schedule-ii.py) |
+| 211 | [Add and Search Word - Data structure design](https://leetcode.com/problems/add-and-search-word-data-structure-design/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2019/211.design-add-and-search-words-data-structure.py) |
+| 212 | [Word Search II](https://leetcode.com/problems/word-search-ii/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2019/212.word-search-ii.py) |
+| 213 | [House Robber II](https://leetcode.com/problems/house-robber-ii/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2019/213.house-robber-ii.py) |
+| 214 | [Shortest Palindrome](https://leetcode.com/problems/shortest-palindrome/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2019/214.shortest-palindrome.py) |
