@@ -216,3 +216,23 @@
 | 212 | [Word Search II](https://leetcode.com/problems/word-search-ii/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2019/212.word-search-ii.py) |
 | 213 | [House Robber II](https://leetcode.com/problems/house-robber-ii/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2019/213.house-robber-ii.py) |
 | 214 | [Shortest Palindrome](https://leetcode.com/problems/shortest-palindrome/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2019/214.shortest-palindrome.py) |
+| 215 | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2020/215.kth-largest-element-in-an-array.py) |
+| 216 | [Combination Sum III](https://leetcode.com/problems/combination-sum-iii/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2020/216.combination-sum-iii.py) |
+| 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2020/217.contains-duplicate.py) |
+| 218 | [The Skyline Problem](https://leetcode.com/problems/the-skyline-problem/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2020/218.the-skyline-problem.py) |
+| 219 | [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2020/219.contains-duplicate-ii.py) |
+| 220 | [Contains Duplicate III](https://leetcode.com/problems/contains-duplicate-iii/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2020/220.contains-duplicate-iii.py) |
+| 221 | [Maximal Square](https://leetcode.com/problems/maximal-square/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2020/221.maximal-square.py) |
+| 222 | [Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2020/222.count-complete-tree-nodes.py) |
+| 223 | [Rectangle Area](https://leetcode.com/problems/rectangle-area/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2020/223.rectangle-area.py) |
+| 224 | [Basic Calculator](https://leetcode.com/problems/basic-calculator/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2020/224.basic-calculator.py) |
+| 225 | [Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2021/225.implement-stack-using-queues.py) |
+| 226 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2021/226.invert-binary-tree.py) |
+| 227 | [Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2021/227.basic-calculator-ii.py) |
+| 228 | [Summary Ranges](https://leetcode.com/problems/summary-ranges/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2021/228.summary-ranges.py) |
+| 229 | [Majority Element II](https://leetcode.com/problems/majority-element-ii/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2021/229.majority-element-ii.py) |
+| 230 | [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2021/230.kth-smallest-element-in-a-bst.py) |
+| 231 | [Power of Two](https://leetcode.com/problems/power-of-two/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2021/231.power-of-two.py) |
+| 232 | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2021/232.implement-queue-using-stacks.py) |
+| 233 | [Number of Digit One](https://leetcode.com/problems/number-of-digit-one/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2021/233.number-of-digit-one.py) |
+| 234 | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2021/234.palindrome-linked-list.py) |
