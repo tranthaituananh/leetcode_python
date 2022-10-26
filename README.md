@@ -157,48 +157,48 @@
 | 153 | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2016/153.find-minimum-in-rotated-sorted-array.py) |
 | 154 | [Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2016/154.find-minimum-in-rotated-sorted-array-ii.py) |
 | 155 | [Min Stack](https://leetcode.com/problems/min-stack/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2016/155.min-stack.py) |
-| 156 | [Binary Tree Upside Down](https://leetcode.com/problems/binary-tree-upside-down/) | Premium |
-| 157 | [Read N Characters Given Read4](https://leetcode.com/problems/read-n-characters-given-read4/) | Premium |
-| 158 | [Read N Characters Given Read4 II - Call multiple times](https://leetcode.com/problems/read-n-characters-given-read4-ii-call-multiple-times/) | Premium |
-| 159 | [Longest Substring with At Most Two Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters/) | Premium |
+| 156 | [Binary Tree Upside Down](https://leetcode.com/problems/binary-tree-upside-down/) |  |
+| 157 | [Read N Characters Given Read4](https://leetcode.com/problems/read-n-characters-given-read4/) |  |
+| 158 | [Read N Characters Given Read4 II - Call multiple times](https://leetcode.com/problems/read-n-characters-given-read4-ii-call-multiple-times/) |  |
+| 159 | [Longest Substring with At Most Two Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters/) |  |
 | 160 | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2016/160.intersection-of-two-linked-lists.py) |
-| 161 | [One Edit Distance](https://leetcode.com/problems/one-edit-distance/) | Premium |
+| 161 | [One Edit Distance](https://leetcode.com/problems/one-edit-distance/) |  |
 | 162 | [Find Peak Element](https://leetcode.com/problems/find-peak-element/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2016/162.find-peak-element.py) |
-| 163 | [Missing Ranges](https://leetcode.com/problems/missing-ranges/) | Premium |
+| 163 | [Missing Ranges](https://leetcode.com/problems/missing-ranges/) |  |
 | 164 | [Maximum Gap](https://leetcode.com/problems/maximum-gap/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2016/164.maximum-gap.py) |
 | 165 | [Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2016/165.compare-version-numbers.py) |
 | 166 | [Fraction to Recurring Decimal](https://leetcode.com/problems/fraction-to-recurring-decimal/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2016/166.fraction-to-recurring-decimal.py) |
 | 167 | [Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2017/167.two-sum-ii-input-array-is-sorted.py) |
 | 168 | [Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2017/168.excel-sheet-column-title.py) |
 | 169 | [Majority Element](https://leetcode.com/problems/majority-element/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2017/169.majority-element.py) |
-| 170 | [Two Sum III - Data structure design](https://leetcode.com/problems/two-sum-iii-data-structure-design/) | Database |
+| 170 | [Two Sum III - Data structure design](https://leetcode.com/problems/two-sum-iii-data-structure-design/) |  |
 | 171 | [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2017/171.excel-sheet-column-number.py) |
 | 172 | [Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2017/172.factorial-trailing-zeroes.py) |
 | 173 | [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2017/173.binary-search-tree-iterator.py) |
 | 174 | [Dungeon Game](https://leetcode.com/problems/dungeon-game/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2017/174.dungeon-game.py) |
-| 175 | [Combine Two Tables](https://leetcode.com/problems/combine-two-tables/) | Database |
-| 176 | [Second Highest Salary](https://leetcode.com/problems/second-highest-salary/) | Database |
-| 177 | [Nth Highest Salary](https://leetcode.com/problems/nth-highest-salary/) | Database |
-| 178 | [Rank Scores](https://leetcode.com/problems/rank-scores/) | Database |
+| 175 | [Combine Two Tables](https://leetcode.com/problems/combine-two-tables/) |  |
+| 176 | [Second Highest Salary](https://leetcode.com/problems/second-highest-salary/) |  |
+| 177 | [Nth Highest Salary](https://leetcode.com/problems/nth-highest-salary/) |  |
+| 178 | [Rank Scores](https://leetcode.com/problems/rank-scores/) |  |
 | 179 | [Largest Number](https://leetcode.com/problems/largest-number/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2017/179.largest-number.py) |
-| 180 | [Consecutive Numbers](https://leetcode.com/problems/consecutive-numbers/) | Database |
-| 181 | [Employees Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers/) | Database |
-| 182 | [Duplicate Emails](https://leetcode.com/problems/duplicate-emails/) | Database |
-| 183 | [Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order/) | Database |
-| 184 | [Department Highest Salary](https://leetcode.com/problems/department-highest-salary/) | Database |
-| 185 | [Department Top Three Salaries](https://leetcode.com/problems/department-top-three-salaries/) | Database |
-| 186 | [Reverse Words in a String II](https://leetcode.com/problems/reverse-words-in-a-string-ii/) | Premium |
+| 180 | [Consecutive Numbers](https://leetcode.com/problems/consecutive-numbers/) |  |
+| 181 | [Employees Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers/) |  |
+| 182 | [Duplicate Emails](https://leetcode.com/problems/duplicate-emails/) |  |
+| 183 | [Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order/) |  |
+| 184 | [Department Highest Salary](https://leetcode.com/problems/department-highest-salary/) |  |
+| 185 | [Department Top Three Salaries](https://leetcode.com/problems/department-top-three-salaries/) |  |
+| 186 | [Reverse Words in a String II](https://leetcode.com/problems/reverse-words-in-a-string-ii/) |  |
 | 187 | [Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2017/187.repeated-dna-sequences.py) |
 | 188 | [Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2017/188.best-time-to-buy-and-sell-stock-iv.py) |
 | 189 | [Rotate Array](https://leetcode.com/problems/rotate-array/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2018/189.rotate-array.py) |
 | 190 | [Reverse Bits](https://leetcode.com/problems/reverse-bits/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2018/190.reverse-bits.py) |
 | 191 | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2018/191.number-of-1-bits.py) |
-| 192 | [Word Frequency](https://leetcode.com/problems/word-frequency/) | Shell |
-| 193 | [Valid Phone Numbers](https://leetcode.com/problems/valid-phone-numbers/) | Shell |
-| 194 | [Transpose File](https://leetcode.com/problems/transpose-file/) | Shell |
-| 195 | [Tenth Line](https://leetcode.com/problems/tenth-line/) | Shell |
-| 196 | [Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails/) | Database |
-| 197 | [Rising Temperature](https://leetcode.com/problems/rising-temperature/) | Database |
+| 192 | [Word Frequency](https://leetcode.com/problems/word-frequency/) |  |
+| 193 | [Valid Phone Numbers](https://leetcode.com/problems/valid-phone-numbers/) |  |
+| 194 | [Transpose File](https://leetcode.com/problems/transpose-file/) |  |
+| 195 | [Tenth Line](https://leetcode.com/problems/tenth-line/) |  |
+| 196 | [Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails/) |  |
+| 197 | [Rising Temperature](https://leetcode.com/problems/rising-temperature/) |  |
 | 198 | [House Robber](https://leetcode.com/problems/house-robber/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2018/198.house-robber.py) |
 | 199 | [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2018/199.binary-tree-right-side-view.py) |
 | 200 | [Number of Islands](https://leetcode.com/problems/number-of-islands/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2018/200.number-of-islands.py) |
@@ -236,3 +236,51 @@
 | 232 | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2021/232.implement-queue-using-stacks.py) |
 | 233 | [Number of Digit One](https://leetcode.com/problems/number-of-digit-one/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2021/233.number-of-digit-one.py) |
 | 234 | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2021/234.palindrome-linked-list.py) |
+| 235 | [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2022/235.lowest-common-ancestor-of-a-binary-search-tree.py) |
+| 236 | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2022/236.lowest-common-ancestor-of-a-binary-tree.py) |
+| 237 | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2022/237.delete-node-in-a-linked-list.py) |
+| 238 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2022/238.product-of-array-except-self.py) |
+| 239 | [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2022/239.sliding-window-maximum.py) |
+| 240 | [Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2022/240.search-a-2-d-matrix-ii.py) |
+| 241 | [Different Ways to Add Parentheses](https://leetcode.com/problems/different-ways-to-add-parentheses/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2022/241.different-ways-to-add-parentheses.py) |
+| 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2022/242.valid-anagram.py) |
+| 243 | [Shortest Word Distance](https://leetcode.com/problems/shortest-word-distance/) |  |
+| 244 | [Shortest Word Distance II](https://leetcode.com/problems/shortest-word-distance-ii/) |  |
+| 245 | [Shortest Word Distance III](https://leetcode.com/problems/shortest-word-distance-iii/) |  |
+| 246 | [Strobogrammatic Number](https://leetcode.com/problems/strobogrammatic-number/) |  |
+| 247 | [Strobogrammatic Number II](https://leetcode.com/problems/strobogrammatic-number-ii/) |  |
+| 248 | [Strobogrammatic Number III](https://leetcode.com/problems/strobogrammatic-number-iii/) |  |
+| 249 | [Group Shifted Strings](https://leetcode.com/problems/group-shifted-strings/) |  |
+| 250 | [Count Univalue Subtrees](https://leetcode.com/problems/count-univalue-subtrees/) |  |
+| 251 | [Flatten 2D Vector](https://leetcode.com/problems/flatten-2d-vector/) |  |
+| 252 | [Meeting Rooms](https://leetcode.com/problems/meeting-rooms/) |  |
+| 253 | [Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/) |  |
+| 254 | [Factor Combinations](https://leetcode.com/problems/factor-combinations/) |  |
+| 255 | [Verify Preorder Sequence in Binary Search Tree](https://leetcode.com/problems/verify-preorder-sequence-in-binary-search-tree/) |  |
+| 256 | [Paint House](https://leetcode.com/problems/paint-house/) |  |
+| 257 | [Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2022/257.binary-tree-paths.py) |
+| 258 | [Add Digits](https://leetcode.com/problems/add-digits/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2022/258.add-digits.py) |
+| 259 | [3Sum Smaller](https://leetcode.com/problems/3sum-smaller/) |  |
+| 260 | [Single Number III](https://leetcode.com/problems/single-number-iii/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2023/260.single-number-iii.py) |
+| 261 | [Graph Valid Tree](https://leetcode.com/problems/graph-valid-tree/) |  |
+| 262 | [Trips and Users](https://leetcode.com/problems/trips-and-users/) |  |
+| 263 | [Ugly Number](https://leetcode.com/problems/ugly-number/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2023/263.ugly-number.py) |
+| 264 | [Ugly Number II](https://leetcode.com/problems/ugly-number-ii/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2023/264.ugly-number-ii.py) |
+| 265 | [Paint House II](https://leetcode.com/problems/paint-house-ii/) |  |
+| 266 | [Palindrome Permutation](https://leetcode.com/problems/palindrome-permutation/) |  |
+| 267 | [Palindrome Permutation II](https://leetcode.com/problems/palindrome-permutation-ii/) |  |
+| 268 | [Missing Number](https://leetcode.com/problems/missing-number/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2023/268.missing-number.py) |
+| 269 | [Alien Dictionary](https://leetcode.com/problems/alien-dictionary/) |  |
+| 270 | [Closest Binary Search Tree Value](https://leetcode.com/problems/closest-binary-search-tree-value/) |  |
+| 271 | [Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/) |  |
+| 272 | [Closest Binary Search Tree Value II](https://leetcode.com/problems/closest-binary-search-tree-value-ii/) |  |
+| 273 | [Integer to English Words](https://leetcode.com/problems/integer-to-english-words/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2023/273.integer-to-english-words.py) |
+| 274 | [H-Index](https://leetcode.com/problems/h-index/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2023/274.h-index.py) |
+| 275 | [H-Index II](https://leetcode.com/problems/h-index-ii/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2023/275.h-index-ii.py) |
+| 276 | [Paint Fence](https://leetcode.com/problems/paint-fence/) |  |
+| 277 | [Find the Celebrity](https://leetcode.com/problems/find-the-celebrity/) |  |
+| 278 | [First Bad Version](https://leetcode.com/problems/first-bad-version/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2023/278.first-bad-version.py) |
+| 279 | [Perfect Squares](https://leetcode.com/problems/perfect-squares/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2023/279.perfect-squares.py) |
+| 280 | [Wiggle Sort](https://leetcode.com/problems/wiggle-sort/) |  |
+| 281 | [Zigzag Iterator](https://leetcode.com/problems/zigzag-iterator/) |  |
+| 282 | [Expression Add Operators](https://leetcode.com/problems/expression-add-operators/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2023/282.expression-add-operators.py) |
