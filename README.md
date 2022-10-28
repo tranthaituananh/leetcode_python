@@ -302,3 +302,18 @@
 | 298 | [Binary Tree Longest Consecutive Sequence](https://leetcode.com/problems/binary-tree-longest-consecutive-sequence/) |  |
 | 299 | [Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2024/299.bulls-and-cows.py) |
 | 300 | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2024/300.longest-increasing-subsequence.py) |
+| 301 | [Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2025/301.remove-invalid-parentheses.py) |
+| 302 | [Smallest Rectangle Enclosing Black Pixels](https://leetcode.com/problems/smallest-rectangle-enclosing-black-pixels/) |  |
+| 303 | [Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2025/303.range-sum-query-immutable.py) |
+| 304 | [Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2025/304.range-sum-query-2-d-immutable.py) |
+| 305 | [Number of Islands II](https://leetcode.com/problems/number-of-islands-ii/) |  |
+| 306 | [Additive Number](https://leetcode.com/problems/additive-number/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2025/306.additive-number.py) |
+| 307 | [Range Sum Query - Mutable](https://leetcode.com/problems/range-sum-query-mutable/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2025/307.range-sum-query-mutable.py) |
+| 308 | [Range Sum Query 2D - Mutable](https://leetcode.com/problems/range-sum-query-2d-mutable/) |  |
+| 309 | [Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2025/309.best-time-to-buy-and-sell-stock-with-cooldown.py) |
+| 310 | [Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2025/310.minimum-height-trees.py) |
+| 311 | [Sparse Matrix Multiplication](https://leetcode.com/problems/sparse-matrix-multiplication/) |  |
+| 312 | [Burst Balloons](https://leetcode.com/problems/burst-balloons/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2025/312.burst-balloons.py) |
+| 313 | [Super Ugly Number](https://leetcode.com/problems/super-ugly-number/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2025/313.super-ugly-number.py) |
+| 314 | [Binary Tree Vertical Order Traversal](https://leetcode.com/problems/binary-tree-vertical-order-traversal/) |  |
+| 315 | [Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2025/315.count-of-smaller-numbers-after-self.py) |
