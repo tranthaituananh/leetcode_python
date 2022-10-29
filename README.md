@@ -317,3 +317,17 @@
 | 313 | [Super Ugly Number](https://leetcode.com/problems/super-ugly-number/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2025/313.super-ugly-number.py) |
 | 314 | [Binary Tree Vertical Order Traversal](https://leetcode.com/problems/binary-tree-vertical-order-traversal/) |  |
 | 315 | [Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2025/315.count-of-smaller-numbers-after-self.py) |
+| 316 | [Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2026/316.remove-duplicate-letters.py) |
+| 317 | [Shortest Distance from All Buildings](https://leetcode.com/problems/shortest-distance-from-all-buildings/) |  |
+| 318 | [Maximum Product of Word Lengths](https://leetcode.com/problems/maximum-product-of-word-lengths/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2026/318.maximum-product-of-word-lengths.py) |
+| 319 | [Bulb Switcher](https://leetcode.com/problems/bulb-switcher/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2026/319.bulb-switcher.py) |
+| 320 | [Generalized Abbreviation](https://leetcode.com/problems/generalized-abbreviation/) |  |
+| 321 | [Create Maximum Number](https://leetcode.com/problems/create-maximum-number/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2026/321.create-maximum-number.py) |
+| 322 | [Coin Change](https://leetcode.com/problems/coin-change/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2026/322.coin-change.py) |
+| 323 | [Number of Connected Components in an Undirected Graph](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/) |  |
+| 324 | [Wiggle Sort II](https://leetcode.com/problems/wiggle-sort-ii/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2026/324.wiggle-sort-ii.py) |
+| 325 | [Maximum Size Subarray Sum Equals k](https://leetcode.com/problems/maximum-size-subarray-sum-equals-k/) |  |
+| 326 | [Power of Three](https://leetcode.com/problems/power-of-three/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2026/326.power-of-three.py) |
+| 327 | [Count of Range Sum](https://leetcode.com/problems/count-of-range-sum/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2026/327.count-of-range-sum.py) |
+| 328 | [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2026/328.odd-even-linked-list.py) |
+| 329 | [Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2026/329.longest-increasing-path-in-a-matrix.py) |
