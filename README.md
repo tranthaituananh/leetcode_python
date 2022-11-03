@@ -331,3 +331,61 @@
 | 327 | [Count of Range Sum](https://leetcode.com/problems/count-of-range-sum/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2026/327.count-of-range-sum.py) |
 | 328 | [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2026/328.odd-even-linked-list.py) |
 | 329 | [Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2026/329.longest-increasing-path-in-a-matrix.py) |
+| 330 | [Patching Array](https://leetcode.com/problems/patching-array/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2027/330.patching-array.py) |
+| 331 | [Verify Preorder Serialization of a Binary Tree](https://leetcode.com/problems/verify-preorder-serialization-of-a-binary-tree/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2027/331.verify-preorder-serialization-of-a-binary-tree.py) |
+| 332 | [Reconstruct Itinerary](https://leetcode.com/problems/reconstruct-itinerary/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2027/332.reconstruct-itinerary.py) |
+| 333 | [Largest BST Subtree](https://leetcode.com/problems/largest-bst-subtree/) |  |
+| 334 | [Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2027/334.increasing-triplet-subsequence.py) |
+| 335 | [Self Crossing](https://leetcode.com/problems/self-crossing/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2027/335.self-crossing.py) |
+| 336 | [Palindrome Pairs](https://leetcode.com/problems/palindrome-pairs/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2027/336.palindrome-pairs.py) |
+| 337 | [House Robber III](https://leetcode.com/problems/house-robber-iii/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2027/337.house-robber-iii.py) |
+| 338 | [Counting Bits](https://leetcode.com/problems/counting-bits/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2027/338.counting-bits.py) |
+| 339 | [Nested List Weight Sum](https://leetcode.com/problems/nested-list-weight-sum/) |  |
+| 340 | [Longest Substring with At Most K Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/) |  |
+| 341 | [Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2027/341.flatten-nested-list-iterator.py) |
+| 342 | [Power of Four](https://leetcode.com/problems/power-of-four/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2027/342.power-of-four.py) |
+| 343 | [Integer Break](https://leetcode.com/problems/integer-break/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2028/343.integer-break.py) |
+| 344 | [Reverse String](https://leetcode.com/problems/reverse-string/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2028/344.reverse-string.py) |
+| 345 | [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2028/345.reverse-vowels-of-a-string.py) |
+| 346 | [Moving Average from Data Stream](https://leetcode.com/problems/moving-average-from-data-stream/) |  |
+| 347 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2028/347.top-k-frequent-elements.py) |
+| 348 | [Design Tic-Tac-Toe](https://leetcode.com/problems/design-tic-tac-toe/) |  |
+| 349 | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2028/349.intersection-of-two-arrays.py) |
+| 350 | [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2028/350.intersection-of-two-arrays-ii.py) |
+| 351 | [Android Unlock Patterns](https://leetcode.com/problems/android-unlock-patterns/) |  |
+| 352 | [Data Stream as Disjoint Intervals](https://leetcode.com/problems/data-stream-as-disjoint-intervals/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2028/352.data-stream-as-disjoint-intervals.py) |
+| 353 | [Design Snake Game](https://leetcode.com/problems/design-snake-game/) |  |
+| 354 | [Russian Doll Envelopes](https://leetcode.com/problems/russian-doll-envelopes/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2028/354.russian-doll-envelopes.py) |
+| 355 | [Design Twitter](https://leetcode.com/problems/design-twitter/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2028/355.design-twitter.py) |
+| 356 | [Line Reflection](https://leetcode.com/problems/line-reflection/) |  |
+| 357 | [Count Numbers with Unique Digits](https://leetcode.com/problems/count-numbers-with-unique-digits/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2028/357.count-numbers-with-unique-digits.py) |
+| 358 | [Rearrange String k Distance Apart](https://leetcode.com/problems/rearrange-string-k-distance-apart/) |  |
+| 359 | [Logger Rate Limiter](https://leetcode.com/problems/logger-rate-limiter/) |  |
+| 360 | [Sort Transformed Array](https://leetcode.com/problems/sort-transformed-array/) |  |
+| 361 | [Bomb Enemy](https://leetcode.com/problems/bomb-enemy/) |  |
+| 362 | [Design Hit Counter](https://leetcode.com/problems/design-hit-counter/) |  |
+| 363 | [Max Sum of Rectangle No Larger Than K](https://leetcode.com/problems/max-sum-of-rectangle-no-larger-than-k/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2029/363.max-sum-of-rectangle-no-larger-than-k.py) |
+| 364 | [Nested List Weight Sum II](https://leetcode.com/problems/nested-list-weight-sum-ii/) |  |
+| 365 | [Water and Jug Problem](https://leetcode.com/problems/water-and-jug-problem/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2029/365.water-and-jug-problem.py) |
+| 366 | [Find Leaves of Binary Tree](https://leetcode.com/problems/find-leaves-of-binary-tree/) |  |
+| 367 | [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2029/367.valid-perfect-square.py) |
+| 368 | [Largest Divisible Subset](https://leetcode.com/problems/largest-divisible-subset/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2029/368.largest-divisible-subset.py) |
+| 369 | [Plus One Linked List](https://leetcode.com/problems/plus-one-linked-list/) |  |
+| 370 | [Range Addition](https://leetcode.com/problems/range-addition/) |  |
+| 371 | [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2029/371.sum-of-two-integers.py) |
+| 372 | [Super Pow](https://leetcode.com/problems/super-pow/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2029/372.super-pow.py) |
+| 373 | [Find K Pairs with Smallest Sums](https://leetcode.com/problems/find-k-pairs-with-smallest-sums/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2029/373.find-k-pairs-with-smallest-sums.py) |
+| 374 | [Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2029/374.guess-number-higher-or-lower.py) |
+| 375 | [Guess Number Higher or Lower II](https://leetcode.com/problems/guess-number-higher-or-lower-ii/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2029/375.guess-number-higher-or-lower-ii.py) |
+| 376 | [Wiggle Subsequence](https://leetcode.com/problems/wiggle-subsequence/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2029/376.wiggle-subsequence.py) |
+| 377 | [Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2030/377.combination-sum-iv.py) |
+| 378 | [Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2030/378.kth-smallest-element-in-a-sorted-matrix.py) |
+| 379 | [Design Phone Directory](https://leetcode.com/problems/design-phone-directory/) |  |
+| 380 | [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2030/380.insert-delete-get-random-o-1.py) |
+| 381 | [Insert Delete GetRandom O(1) - Duplicates allowed](https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2030/381.insert-delete-get-random-o-1-duplicates-allowed.py) |
+| 382 | [Linked List Random Node](https://leetcode.com/problems/linked-list-random-node/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2030/382.linked-list-random-node.py) |
+| 383 | [Ransom Note](https://leetcode.com/problems/ransom-note/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2030/383.ransom-note.py) |
+| 384 | [Shuffle an Array](https://leetcode.com/problems/shuffle-an-array/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2030/384.shuffle-an-array.py) |
+| 385 | [Mini Parser](https://leetcode.com/problems/mini-parser/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2030/385.mini-parser.py) |
+| 386 | [Lexicographical Numbers](https://leetcode.com/problems/lexicographical-numbers/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2030/386.lexicographical-numbers.py) |
+| 387 | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2030/387.first-unique-character-in-a-string.py) |
