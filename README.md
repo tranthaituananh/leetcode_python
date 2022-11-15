@@ -389,3 +389,51 @@
 | 385 | [Mini Parser](https://leetcode.com/problems/mini-parser/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2030/385.mini-parser.py) |
 | 386 | [Lexicographical Numbers](https://leetcode.com/problems/lexicographical-numbers/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2030/386.lexicographical-numbers.py) |
 | 387 | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2030/387.first-unique-character-in-a-string.py) |
+| 388 | [Longest Absolute File Path](https://leetcode.com/problems/longest-absolute-file-path/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2031/388.longest-absolute-file-path.py) |
+| 389 | [Find the Difference](https://leetcode.com/problems/find-the-difference/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2031/389.find-the-difference.py) |
+| 390 | [Elimination Game](https://leetcode.com/problems/elimination-game/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2031/390.elimination-game.py) |
+| 391 | [Perfect Rectangle](https://leetcode.com/problems/perfect-rectangle/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2031/391.perfect-rectangle.py) |
+| 392 | [Is Subsequence](https://leetcode.com/problems/is-subsequence/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2031/392.is-subsequence.py) |
+| 393 | [UTF-8 Validation](https://leetcode.com/problems/utf-8-validation/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2032/393.utf-8-validation.py) |
+| 394 | [Decode String](https://leetcode.com/problems/decode-string/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2032/394.decode-string.py) |
+| 395 | [Longest Substring with At Least K Repeating Characters](https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2032/395.longest-substring-with-at-least-k-repeating-characters.py) |
+| 396 | [Rotate Function](https://leetcode.com/problems/rotate-function/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2032/396.rotate-function.py) |
+| 397 | [Integer Replacement](https://leetcode.com/problems/integer-replacement/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2032/397.integer-replacement.py) |
+| 398 | [Random Pick Index](https://leetcode.com/problems/random-pick-index/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2032/398.random-pick-index.py) |
+| 399 | [Evaluate Division](https://leetcode.com/problems/evaluate-division/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2032/399.evaluate-division.py) |
+| 400 | [Nth Digit](https://leetcode.com/problems/nth-digit/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2032/400.nth-digit.py) |
+| 401 | [Binary Watch](https://leetcode.com/problems/binary-watch/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2033/401.binary-watch.py) |
+| 402 | [Remove K Digits](https://leetcode.com/problems/remove-k-digits/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2033/402.remove-k-digits.py) |
+| 403 | [Frog Jump](https://leetcode.com/problems/frog-jump/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2033/403.frog-jump.py) |
+| 404 | [Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2033/404.sum-of-left-leaves.py) |
+| 405 | [Convert a Number to Hexadecimal](https://leetcode.com/problems/convert-a-number-to-hexadecimal/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2033/405.convert-a-number-to-hexadecimal.py) |
+| 406 | [Queue Reconstruction by Height](https://leetcode.com/problems/queue-reconstruction-by-height/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2034/406.queue-reconstruction-by-height.py) |
+| 407 | [Trapping Rain Water II](https://leetcode.com/problems/trapping-rain-water-ii/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2034/407.trapping-rain-water-ii.py) |
+| 408 | [Valid Word Abbreviation](https://leetcode.com/problems/valid-word-abbreviation/) |  |
+| 409 | [Longest Palindrome](https://leetcode.com/problems/longest-palindrome/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2034/409.longest-palindrome.py) |
+| 410 | [Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2034/410.split-array-largest-sum.py) |
+| 411 | [Minimum Unique Word Abbreviation](https://leetcode.com/problems/minimum-unique-word-abbreviation/) |  |
+| 412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2035/412.fizz-buzz.py) |
+| 413 | [Arithmetic Slices](https://leetcode.com/problems/arithmetic-slices/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2035/413.arithmetic-slices.py) |
+| 414 | [Third Maximum Number](https://leetcode.com/problems/third-maximum-number/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2035/414.third-maximum-number.py) |
+| 415 | [Add Strings](https://leetcode.com/problems/add-strings/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2035/415.add-strings.py) |
+| 416 | [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2035/416.partition-equal-subset-sum.py) |
+| 417 | [Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2035/417.pacific-atlantic-water-flow.py) |
+| 418 | [Sentence Screen Fitting](https://leetcode.com/problems/sentence-screen-fitting/) |  |
+| 419 | [Battleships in a Board](https://leetcode.com/problems/battleships-in-a-board/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2035/419.battleships-in-a-board.py) |
+| 420 | [Strong Password Checker](https://leetcode.com/problems/strong-password-checker/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2035/420.strong-password-checker.py) |
+| 421 | [Maximum XOR of Two Numbers in an Array](https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2036/421.maximum-xor-of-two-numbers-in-an-array.py) |
+| 422 | [Valid Word Square](https://leetcode.com/problems/valid-word-square/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2036/423.reconstruct-original-digits-from-english.py) |
+| 423 | [Reconstruct Original Digits from English](https://leetcode.com/problems/reconstruct-original-digits-from-english/) |  |
+| 424 | [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2036/424.longest-repeating-character-replacement.py) |
+| 425 | [Word Squares](https://leetcode.com/problems/word-squares/) |  |
+| 426 | [Convert Binary Search Tree to Sorted Doubly Linked List](https://leetcode.com/problems/convert-binary-search-tree-to-sorted-doubly-linked-list/) |  |
+| 427 | [Construct Quad Tree](https://leetcode.com/problems/construct-quad-tree/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2036/427.construct-quad-tree.py) |
+| 428 | [Serialize and Deserialize N-ary Tree](https://leetcode.com/problems/serialize-and-deserialize-n-ary-tree/) |  |
+| 429 | [N-ary Tree Level Order Traversal](https://leetcode.com/problems/n-ary-tree-level-order-traversal/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2036/429.n-ary-tree-level-order-traversal.py) |
+| 430 | [Flatten a Multilevel Doubly Linked List](https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2036/430.flatten-a-multilevel-doubly-linked-list.py) |
+| 431 | [Encode N-ary Tree to Binary Tree](https://leetcode.com/problems/encode-n-ary-tree-to-binary-tree/) |  |
+| 432 | [All O`one Data Structure](https://leetcode.com/problems/all-oone-data-structure/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2037/432.all-o-one-data-structure.py) |
+| 433 | [Minimum Genetic Mutation](https://leetcode.com/problems/minimum-genetic-mutation/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2037/433.minimum-genetic-mutation.py) |
+| 434 | [Number of Segments in a String](https://leetcode.com/problems/number-of-segments-in-a-string/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2037/434.number-of-segments-in-a-string.py) |
+| 435 | [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2037/435.non-overlapping-intervals.py) |
