@@ -437,3 +437,13 @@
 | 433 | [Minimum Genetic Mutation](https://leetcode.com/problems/minimum-genetic-mutation/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2037/433.minimum-genetic-mutation.py) |
 | 434 | [Number of Segments in a String](https://leetcode.com/problems/number-of-segments-in-a-string/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2037/434.number-of-segments-in-a-string.py) |
 | 435 | [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2037/435.non-overlapping-intervals.py) |
+| 436 | [Find Right Interval](https://leetcode.com/problems/find-right-interval/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2038/436.find-right-interval.py) |
+| 437 | [Path Sum III](https://leetcode.com/problems/path-sum-iii/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2038/437.path-sum-iii.py) |
+| 438 | [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2038/438.find-all-anagrams-in-a-string.py) |
+| 439 | [Ternary Expression Parser](https://leetcode.com/problems/ternary-expression-parser/) |  |
+| 440 | [K-th Smallest in Lexicographical Order](https://leetcode.com/problems/k-th-smallest-in-lexicographical-order/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2038/440.k-th-smallest-in-lexicographical-order.py) |
+| 441 | [Arranging Coins](https://leetcode.com/problems/arranging-coins/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2039/441.arranging-coins.py) |
+| 442 | [Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2039/442.find-all-duplicates-in-an-array.py) |
+| 443 | [String Compression](https://leetcode.com/problems/string-compression/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2039/443.string-compression.py) |
+| 444 | [Sequence Reconstruction](https://leetcode.com/problems/sequence-reconstruction/) |  |
+| 445 | [Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2039/445.add-two-numbers-ii.py) |
