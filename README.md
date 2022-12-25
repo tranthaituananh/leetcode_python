@@ -477,3 +477,16 @@
 | 473 | [Matchsticks to Square](https://leetcode.com/problems/matchsticks-to-square/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2045/473.matchsticks-to-square.py) |
 | 474 | [Ones and Zeroes](https://leetcode.com/problems/ones-and-zeroes/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2045/474.ones-and-zeroes.py) |
 | 475 | [Heaters](https://leetcode.com/problems/heaters/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2045/475.heaters.py) |
+| 476 | [Number Complement](https://leetcode.com/problems/number-complement/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2046/476.number-complement.py) |
+| 477 | [Total Hamming Distance](https://leetcode.com/problems/total-hamming-distance/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2046/477.total-hamming-distance.py) |
+| 478 | [Generate Random Point in a Circle](https://leetcode.com/problems/generate-random-point-in-a-circle/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2046/478.generate-random-point-in-a-circle.py) |
+| 479 | [Largest Palindrome Product](https://leetcode.com/problems/largest-palindrome-product/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2046/479.largest-palindrome-product.py) |
+| 480 | [Sliding Window Median](https://leetcode.com/problems/sliding-window-median/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2046/480.sliding-window-median.py) |
+| 481 | [Magical String](https://leetcode.com/problems/magical-string/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2046/481.magical-string.py) |
+| 482 | [License Key Formatting](https://leetcode.com/problems/license-key-formatting/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2046/482.license-key-formatting.py) |
+| 483 | [Smallest Good Base](https://leetcode.com/problems/smallest-good-base/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2046/483.smallest-good-base.py) |
+| 484 | [Find Permutation](https://leetcode.com/problems/find-permutation/) |  |
+| 485 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2046/485.max-consecutive-ones.py) |
+| 486 | [Predict the Winner](https://leetcode.com/problems/predict-the-winner/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2046/486.predict-the-winner.py) |
+| 487 | [Max Consecutive Ones II](https://leetcode.com/problems/max-consecutive-ones-ii/) |  |
+| 488 | [Zuma Game](https://leetcode.com/problems/zuma-game/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2046/488.zuma-game.py) |
