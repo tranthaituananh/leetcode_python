@@ -490,3 +490,24 @@
 | 486 | [Predict the Winner](https://leetcode.com/problems/predict-the-winner/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2046/486.predict-the-winner.py) |
 | 487 | [Max Consecutive Ones II](https://leetcode.com/problems/max-consecutive-ones-ii/) |  |
 | 488 | [Zuma Game](https://leetcode.com/problems/zuma-game/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2046/488.zuma-game.py) |
+| 489 | [Robot Room Cleaner](https://leetcode.com/problems/robot-room-cleaner/) |  |
+| 490 | [The Maze](https://leetcode.com/problems/the-maze/) |  |
+| 491 | [Increasing Subsequences](https://leetcode.com/problems/increasing-subsequences/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2047/491.non-decreasing-subsequences.py) |
+| 492 | [Construct the Rectangle](https://leetcode.com/problems/construct-the-rectangle/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2047/492.construct-the-rectangle.py) |
+| 493 | [Reverse Pairs](https://leetcode.com/problems/reverse-pairs/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2047/493.reverse-pairs.py) |
+| 494 | [Target Sum](https://leetcode.com/problems/target-sum/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2047/494.target-sum.py) |
+| 495 | [Teemo Attacking](https://leetcode.com/problems/teemo-attacking/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2047/495.teemo-attacking.py) |
+| 496 | [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2047/496.next-greater-element-i.py) |
+| 497 | [Random Point in Non-overlapping Rectangles](https://leetcode.com/problems/random-point-in-non-overlapping-rectangles/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2047/497.random-point-in-non-overlapping-rectangles.py) |
+| 498 | [Diagonal Traverse](https://leetcode.com/problems/diagonal-traverse/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2047/498.diagonal-traverse.py) |
+| 499 | [The Maze III](https://leetcode.com/problems/the-maze-iii/) |  |
+| 500 | [Keyboard Row](https://leetcode.com/problems/keyboard-row/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2048/500.keyboard-row.py) |
+| 501 | [Find Mode in Binary Search Tree](https://leetcode.com/problems/find-mode-in-binary-search-tree/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2048/501.find-mode-in-binary-search-tree.py) |
+| 502 | [IPO](https://leetcode.com/problems/ipo/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2048/502.ipo.py) |
+| 503 | [Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2048/503.next-greater-element-ii.py) |
+| 504 | [Base 7](https://leetcode.com/problems/base-7/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2048/504.base-7.py) |
+| 505 | [The Maze II](https://leetcode.com/problems/the-maze-ii/) |  |
+| 506 | [Relative Ranks](https://leetcode.com/problems/relative-ranks/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2048/506.relative-ranks.py) |
+| 507 | [Perfect Number](https://leetcode.com/problems/perfect-number/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2048/507.perfect-number.py) |
+| 508 | [Most Frequent Subtree Sum](https://leetcode.com/problems/most-frequent-subtree-sum/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2048/508.most-frequent-subtree-sum.py) |
+| 509 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | [Python](https://github.com/tranthaituananh/leetcode_python/blob/master/Day%2048/509.fibonacci-number.py) |
